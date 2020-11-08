@@ -6,6 +6,6 @@ middle_name = input("Введите ваше отчество: ")
 age = input("Введите ваш возраст: ")
 passport_serial = input("Введите вашу серию паспорта: ")
 passport = input("Введите ваш номер паспорта: ")
-#тест
+
 print(f"ФИО: {last_name} {first_name} {middle_name}\nВозраст: {age}\nПаспорт: {passport_serial} {passport}")
 
